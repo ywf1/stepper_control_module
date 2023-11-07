@@ -13,7 +13,8 @@ Schematic:
 ![image](https://github.com/ywf1/stepper_control_module/assets/115194344/a755aa67-7dc1-4ce6-8cf3-88fc71a2f721)
 
 3D Model:
-                      Top                                                Bottom
+                          Top                                                Bottom
+                          
 ![image](https://github.com/ywf1/stepper_control_module/assets/115194344/060e4b75-0aa3-44e9-8235-593f56c12492)
 
 
