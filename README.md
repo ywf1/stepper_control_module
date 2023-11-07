@@ -14,5 +14,6 @@ Schematic:
 
 3D Model:
 
-![image](https://github.com/ywf1/stepper_control_module/assets/115194344/2a06028a-dc21-4b18-b90c-23f58ed2c6b8)
+![image](https://github.com/ywf1/stepper_control_module/assets/115194344/060e4b75-0aa3-44e9-8235-593f56c12492)
+
 
