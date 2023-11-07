@@ -6,6 +6,8 @@ Features:
   - AS5600 12-bit on-axis magnetic rotary position sensor with analog output
   - INA180 Current Sense Amplifier with analog output
   - 5V Linear Dropout Regulator with 18V (MAX) input capabilities
+  - XT60 Connector for easy powering from battery (Recommended 3s/4s for stepper voltage requirements)
+  - 0805 Components for easy hand soldering
 
 Schematic:
 ![image](https://github.com/ywf1/stepper_control_module/assets/115194344/a755aa67-7dc1-4ce6-8cf3-88fc71a2f721)
